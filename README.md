@@ -2,12 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Android-Fragments
-- 🌱 I’m currently learning ... Kotlin, Flutter, Metasploit
+- 🔭 I’m currently working on ~ [Android-Fragments](https://developer.android.com/s/results/?q=fragments&authuser=1)
+- 🌱 I’m currently learning ~ [Kotlin](https://kotlinlang.org/), [Flutter](https://flutter.dev/), [Metasploit](https://www.metasploit.com/)
 - 👯 I’m looking to collaborate on ... Firebase Cloud Messaging
-- 🤔 I’m looking for help with ... Dagger Injectin
-- 💬 All My projects are in [Profile](https://github.com/SaginiChan/)
-- 📫 How to reach me: ... boazsagini62@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I Love Anime and Dc Comics
--->
+- 🤔 I’m looking for help with ... Dagger Injection
+- 💬 All My projects are in ~ [Profile](https://github.com/SaginiChan/)
+- 📫 Reach me: ~ [My Email]boazsagini62@gmail.com
+- ⚡ Fun fact: ~ I Love Anime and Dc Comics
