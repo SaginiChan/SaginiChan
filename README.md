@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Dagger Injection
 - 💬 All My projects are in ~ [Profile](https://github.com/SaginiChan/)
 - 📫 Reach me: ~ [My Email]boazsagini62@gmail.com
-- ⚡ Fun fact: ~ I Love Anime and Dc Comics
+- ⚡ I Love Anime and Dc Comics
