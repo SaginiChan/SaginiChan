@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 
 - 💬 All My projects are in ~ [Profile](https://github.com/SaginiChan/)
 - 📫 Reach me: ~ [My Email]boazsagini62@gmail.com
-- ⚡ I Love Anime and Dc Comics
+-
