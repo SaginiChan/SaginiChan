@@ -9,3 +9,8 @@ Here are some ideas to get you started:
 - 📫 Reach me: ~ [My Email]boazsagini62@gmail.com
 
 ...
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
