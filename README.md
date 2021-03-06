@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 All My projects are in ~ [Profile](https://github.com/SaginiChan/)
 - 👋 Im also learning Figma
 
-Currently building first ever API centered around an anime
+Currently building first ever API centered around an anime; Bleach Anime
 
 - 📫 Reach me: ~ [My Email]boazsagini62@gmail.com
 
