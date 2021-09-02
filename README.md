@@ -42,17 +42,12 @@ I'm Sagini, a Full Stack Android/API/Node JS Developer. I spend most of time cod
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SaginiChan.SaginiChan)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+
+
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-
-#### Coding Stats
+#### Last 7 days Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
@@ -68,8 +63,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![SaginiChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaginiChan&show_icons=true&theme=radical)
 
-
-</details>
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
