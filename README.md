@@ -17,6 +17,21 @@ I'm Sagini, a Full Stack Android/API/Node JS Developer. I spend most of time cod
 - 😄 Pronouns:Batman, The dark knight.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
+#### Last 7 days Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Markdown     55 mins         ████████████████▓░░░░░░░░   66.84 % 
+YAML         26 mins         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+```
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![SaginiChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaginiChan&show_icons=true&theme=radical)
+
+
 #### Top Languages
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -47,23 +62,3 @@ I'm Sagini, a Full Stack Android/API/Node JS Developer. I spend most of time cod
 
 <br >
 
-#### Last 7 days Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Markdown     55 mins         ████████████████▓░░░░░░░░   66.84 % 
-YAML         26 mins         ████████░░░░░░░░░░░░░░░░░   31.68 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-```
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![SaginiChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaginiChan&show_icons=true&theme=radical)
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
