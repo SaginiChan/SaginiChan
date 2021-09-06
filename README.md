@@ -21,9 +21,9 @@ I'm Sagini, a Full Stack Android/API/Node JS Developer. I spend most of time cod
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     55 mins         ████████████████▓░░░░░░░░   66.84 % 
-YAML         26 mins         ████████░░░░░░░░░░░░░░░░░   31.68 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown     4 hrs 17 mins   ███████████████▓░░░░░░░░░   62.51 % 
+YAML         2 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   36.74 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
