@@ -22,7 +22,7 @@ I'm Sagini, a Full Stack Android/API/Node JS Developer. I spend most of time cod
 <!--START_SECTION:waka-->
 
 ```text
-Other    15 hrs 34 mins  ████████████████████████▓   99.23 %
+Other    10 hrs 19 mins  ████████████████████████▓   98.84 %
 ```
 
 <!--END_SECTION:waka-->
