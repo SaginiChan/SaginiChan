@@ -22,9 +22,10 @@ I'm Sagini, a Full Stack Android/API/Node JS Developer. I spend most of time cod
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin         1 hr 26 mins    ███████████████████░░░░░░   76.21 %
-XML            14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Shell Script   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Kotlin         3 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.85 %
+XML            2 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.36 %
+Shell Script   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+SVG            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
