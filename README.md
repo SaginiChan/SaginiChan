@@ -29,10 +29,7 @@ No activity tracked
 
 #### Github Stats
 
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+![SaginiChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaginiChan&show_icons=true&theme=radical)
 
 
 #### Top Languages
