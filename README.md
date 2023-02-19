@@ -48,7 +48,7 @@ No activity tracked
 <br />
 <br />
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4kxky8d0rlvzwb3vb2wst1xph&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 
 #### Profile Visits 
